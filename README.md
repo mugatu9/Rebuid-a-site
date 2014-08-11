@@ -8,4 +8,3 @@ microformats and RDFa. The Initial URL was revised to rebuild semantic structure
 and add microdata, microformats and RDFa. There are also some ARIA roles to
 enhance accessibility.
 
-
